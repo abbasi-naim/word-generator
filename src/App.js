@@ -4,13 +4,12 @@ function App() {
   return (
     <div className="App">
       <input
-        autofocus="autofocus"
+        autoFocus="autofocus"
         name="letters"
         type="search"
-        placeholder="Your Letters"
-        autocomplete="off"
-        maxlength="15"
-        value=""
+        placeholder="Enter Letters"
+        autoComplete="off"
+        maxLength="15"
       ></input>
     </div>
   );
