@@ -3,6 +3,9 @@
   background: #d1ffa2;
   padding: 50px;
 }
+.Body {
+  padding: 40px;
+}
 
 .App-logo {
   height: 40vmin;

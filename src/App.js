@@ -11,6 +11,7 @@ function App() {
         autoComplete="off"
         maxLength="15"
       ></input>
+      <div className="Body">search result will show here!</div>
     </div>
   );
 }
